@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/addesk.iml" filepath="$PROJECT_DIR$/addesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tadxmock-api/tadxmock-api.iml" filepath="$PROJECT_DIR$/tadxmock-api/tadxmock-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uaa/uaa.iml" filepath="$PROJECT_DIR$/uaa/uaa.iml" />
+    </modules>
+  </component>
+</project>
